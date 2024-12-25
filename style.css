@@ -5,3 +5,11 @@ html, body {
 canvas {
   display: block;
 }
+#keybindings {
+  position: fixed;
+  top: 10px;
+  right: 10px;
+  background: white;
+  border: 1px solid black;
+  padding: 10px;
+}
