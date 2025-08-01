@@ -1,4 +1,6 @@
-# Game of Life
+
+
+# [Game of Life](https://lukec404.github.io/gameOfLife/)
 
 This project is an implementation of Conway's Game of Life, a cellular automaton devised by mathematician John Horton Conway.  
 The game is a zero-player game, meaning its evolution is determined by its initial state, requiring no further input.  
